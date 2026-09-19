@@ -1,18 +1,23 @@
-# Hola, soy Alejo 👋
+¡Hola! Soy Alejo 
 
-💻 Técnico en Informatica Profesional y Personal<br> 
-🎓 Estudiante de Ingenieria en Informatica — Universidad Nacional de Catamarca (UNCa)<br>
-🧠 Interesado en desarrollo de software, redes, datos e inteligencia artificial<br>
+Soy Técnico en Informática Profesional y Personal, y actualmente me encuentro cursando el 3º año de Ingeniería en Informática en la Universidad Nacional de Catamarca (UNCa)
 
-### Tecnologias
+Me apasiona la tecnología y el aprendizaje continuo. Mi curiosidad me ha llevado a explorar distintas ramas de la informática, teniendo un interés especial por el desarrollo de software, las redes, la gestión de datos y la Inteligencia Artificial
+
+Actualmente dedico mi tiempo a la universidad y a desarrollar proyectos prácticos que me ayuden a solidificar mi formación profesional
+### Stack Tecnologico:
 
 * C
 * Java
 * Python
 * PHP
 * SQL
-* Git / GitHub
+* Visual Basic
+* Visual FoxPro
+* Git
 
-### Actualmente
+¿Qué estoy haciendo ahora?
 
-📚 Cursando el 3º año de Ingenieria en Informatica y desarrollando proyectos como parte de mi formacion
+1. Avanzando en la carrera de Ingeniería en Informática
+2. Desarrollando proyectos personales para aplicar mis conocimientos académicos en entornos reales
+3. Explorando nuevas herramientas relacionadas con datos y redes
