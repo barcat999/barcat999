@@ -15,6 +15,8 @@ Actualmente dedico mi tiempo a la universidad y a desarrollar proyectos práctic
 - Visual FoxPro
 ### 🛠️ Herramientas
 - Git
+- SSH
+- XAMPP
 
 ### ¿Qué estoy haciendo ahora?
 
