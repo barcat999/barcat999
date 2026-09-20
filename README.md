@@ -6,7 +6,7 @@ Me apasiona la tecnología y el aprendizaje continuo. Mi curiosidad me ha llevad
 
 Actualmente dedico mi tiempo a la universidad y a desarrollar proyectos prácticos que me ayuden a solidificar mi formación profesional
 ### 💻 Lenguajes
--C
+- C
 - Java
 - Python
 - PHP
@@ -14,7 +14,7 @@ Actualmente dedico mi tiempo a la universidad y a desarrollar proyectos práctic
 - Visual Basic
 - Visual FoxPro
 ### 🛠️ Herramientas
--Git
+- Git
 
 ### ¿Qué estoy haciendo ahora?
 
