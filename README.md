@@ -1,4 +1,4 @@
-# ¡Hola! Soy Alejo 
+<h1 align="center">¡Hola! Soy Alejo 👋</h1>
 
 Soy Técnico en Informática Profesional y Personal, y actualmente me encuentro cursando el 3º año de Ingeniería en Informática en la Universidad Nacional de Catamarca (UNCa)
 
@@ -11,6 +11,7 @@ Actualmente dedico mi tiempo a la universidad y a desarrollar proyectos práctic
 - Python
 - PHP
 - SQL
+- JavaScript
 - Visual Basic
 - Visual FoxPro
 ### 🛠️ Herramientas
