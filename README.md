@@ -1,4 +1,4 @@
-#¡Hola! Soy Alejo 
+# ¡Hola! Soy Alejo 
 
 Soy Técnico en Informática Profesional y Personal, y actualmente me encuentro cursando el 3º año de Ingeniería en Informática en la Universidad Nacional de Catamarca (UNCa)
 
