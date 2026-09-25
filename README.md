@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Alejo 👋</h1>
 
-Soy Técnico en Informática Profesional y Personal, y actualmente me encuentro cursando el 3º año de Ingeniería en Informática en la Universidad Nacional de Catamarca (UNCa)
+Soy Técnico en Informática Profesional y Personal, y actualmente me encuentro cursando el 3º año de Ingeniería en Informática
 
 Me apasiona la tecnología y el aprendizaje continuo. Mi curiosidad me ha llevado a explorar distintas ramas de la informática, teniendo un interés especial por el desarrollo de software, las redes, la gestión de datos y la Inteligencia Artificial
 
